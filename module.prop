@@ -1,0 +1,6 @@
+id=TestFeatureOP13FixWifiHandlerThread
+name=fix WifiHandlerThread 
+version=15.0.0.204
+versioncode=15000204
+author=mkmark
+description=fix WifiHandlerThread
